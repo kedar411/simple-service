@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Simple Service</name>
+  <name>Simple Service with Jenkins and Sonar</name>
   <description>Simple Service</description>
 
   <parent>
